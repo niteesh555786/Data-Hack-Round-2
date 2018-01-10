@@ -1,4 +1,4 @@
-# Data-Hack-Round-2-
+# Data-Hack-Round-2
 Hackathon
 
 The Bank of wonderland gets lots of applications for loans from people of every category. In the past, the bank has been generous and extended loans to all types of people but in return has incurred huge losses due to people not being able to return the loan.
